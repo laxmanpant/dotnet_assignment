@@ -33,7 +33,7 @@
         matrix[2,1,2] =120;
         matrix[2,2,0] =125;
         matrix[2,2,1] =130;
-        matrix[2,2,2] =135;
+        matrix[2, 2,2] =135;
         // Display the matrix
         for (int i = 0; i < matrix.GetLength(0); i++)
         {
