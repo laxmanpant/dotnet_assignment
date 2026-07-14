@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="indexers/indexers.csproj" />
-  <Project Path="_Array/_Array.csproj" Id="8d413c14-fe13-4c71-b586-311946449c24" />
+  <Project Path="indexers/multidimensional_array.csproj" />
+  <Project Path="_Array/indexer.csproj" Id="8d413c14-fe13-4c71-b586-311946449c24" />
 </Solution>
