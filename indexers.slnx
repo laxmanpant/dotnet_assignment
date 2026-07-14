@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Delegant_event/Delegant_event.csproj" Id="eb579b48-ea13-4bc5-b287-463ce5e14387" />
   <Project Path="indexers/multidimensional_array.csproj" />
+  <Project Path="Jagged_array/Jagged_array.csproj" Id="116227e3-856f-4799-8bcc-a75a05930d85" />
   <Project Path="_Array/indexer.csproj" Id="8d413c14-fe13-4c71-b586-311946449c24" />
 </Solution>
