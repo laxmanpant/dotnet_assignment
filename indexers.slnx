@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="asynchronous/asynchronous.csproj" Id="33ad1c08-8016-4803-be1b-aa0653dea06d" />
   <Project Path="delegant_event/delegant_event.csproj" Id="ce0d958b-4abf-405e-b3b0-99f7c525d31d" />
   <Project Path="indexer/indexer.csproj" Id="5e070f13-7e03-4809-8a2a-f52320cb57bd" />
   <Project Path="jagged_array/jagged_array.csproj" Id="0f7edfe6-bf52-430a-b82a-b09ed8ac5cf6" />

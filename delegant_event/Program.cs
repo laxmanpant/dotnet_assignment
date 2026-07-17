@@ -1,16 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace delegant_event
 {
-    internal class Program
+    class Event
     {
-        static void Main(string[] args)
-        {
+        public delegate void info();
 
+        public static event info events;
+        static void Main()
+        {
+            events += ShowMessage;
+            events?.Invoke();
+
+        }
+        static void ShowMessage()
+        {
+            Console.WriteLine("Event Is Triggered.");
         }
     }
 }
